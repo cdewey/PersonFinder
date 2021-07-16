@@ -1,0 +1,23 @@
+.item-container{
+    height: 96px;
+    display: flex;
+}
+
+.text-container{
+    padding-top: .5em;
+    padding-left: 1em;
+}
+
+.name-text{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.description-text{
+    margin-top: .5em;
+    margin-bottom: 0em;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:  14px;
+    color: #666666;
+}

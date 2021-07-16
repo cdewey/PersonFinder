@@ -1,0 +1,13 @@
+.title{
+    color:#102261;
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-bottom: 1em;
+}
+
+.page-container{
+    display:flex;
+    flex-direction: column;
+    padding-top: 148px;
+    justify-content: center;
+}
